@@ -7,7 +7,7 @@
   - [osTicket: Adding Roles and Departments](https://github.com/mshort49-lang/osTicket-Roles-Departments-and-Agents)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mshort49-lang/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machine and Resource Group within Azure]([https://github.com/mshort49-lang/configure-ad](https://github.com/mshort49-lang/Creating-Virtual-Machine))
+  - [Creating Virtual Machine and Resource Group within Azure](https://github.com/mshort49-lang/Creating-Virtual-Machine)
 
 <h2>🤳Connect with me:</h2>
 
