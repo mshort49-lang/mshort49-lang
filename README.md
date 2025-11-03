@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mshort49-lang/osticket-prereqs)
-  - [osTicket: Roles and Departments](https://github.com/mshort49-lang/osTicket-Roles-Departments-and-Agents)
+  - [osTicket: Adding Roles and Departments](https://github.com/mshort49-lang/osTicket-Roles-Departments-and-Agents)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mshort49-lang/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mshort49-lang/configure-ad)
